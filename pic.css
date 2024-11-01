@@ -1,0 +1,27 @@
+@font-face {
+    font-family: anadablack;
+    src: url(./AnandaBlackPersonalUseRegular-rg9Rx.ttf);
+}
+
+body{
+    background-color: black ;
+}
+
+.picture{
+    align-items: center;
+    padding-left: 32%;
+    padding-top: 6%;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+a{
+    text-align: center;
+    padding-left: 35%;
+    font-size: 40px;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: anadablack;
+    
+}

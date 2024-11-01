@@ -1,0 +1,39 @@
+@font-face {
+    font-family: myfont;
+    src: url(Stylish_ttf.otf);
+    
+}
+@font-face {
+    font-family: Stylish;
+    src: url(Pretty_ttf.otf);
+}
+@font-face {
+    font-family: warriot;
+    src: url(./WarriotTech-rvdRp.ttf);
+}
+@font-face {
+    font-family: attria;
+    src: url(./AtreaForza-wo2Dz.otf);
+}
+body{
+    background-color: aqua;
+}
+
+.Firstpage h1{ 
+    text-align: center;
+    padding-top: 280px;
+    font-size: 80px;
+    font-family: myfont;
+}
+.link{
+    text-align: center;
+    font-size: 30px;
+    font-family: Stylish;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: hsl(253, 79%, 29%);
+    font-family: attria;
+}
